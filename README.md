@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/StarkNightsWatch/starknet-peer-review">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
+    <img src="docs/images/logo.png" alt="Logo" width="100" height="100">
   </a>
 </h1>
 
@@ -12,9 +12,10 @@
   <br />
   <br />
   <a href="https://github.com/StarkNightsWatch/starknet-peer-review/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
-  ·
+  -
   <a href="https://github.com/StarkNightsWatch/starknet-peer-review/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .<a href="https://github.com/StarkNightsWatch/starknet-peer-review/discussions">Ask a Question</a>
+  -
+  <a href="https://github.com/StarkNightsWatch/starknet-peer-review/discussions">Ask a Question</a>
 </div>
 
 <div align="center">
@@ -23,13 +24,15 @@
 [![Project license](https://img.shields.io/github/license/StarkNightsWatch/starknet-peer-review.svg?style=flat-square)](LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/StarkNightsWatch/starknet-peer-review/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with love by StarkNightsWatch](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-StarkNightsWatch-ff1414.svg?style=flat-square)](https://github.com/StarkNightsWatch)
+
 
 </div>
 
 <details open="open">
 <summary>Table of Contents</summary>
 
+- [Report a Bug](#report-a-bug)
+- [Request a Feature](#request-a-feature)
 - [About](#about)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
@@ -40,7 +43,7 @@
 - [Support](#support)
 - [Project assistance](#project-assistance)
 - [Contributing](#contributing)
-- [Authors & contributors](#authors--contributors)
+- [Authors \& contributors](#authors--contributors)
 - [Security](#security)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -134,8 +137,6 @@ First off, thanks for taking the time to contribute! Contributions are what make
 Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
 ## Authors & contributors
-
-The original setup of this repository is by [Abdelhamid Bakhta <@abdelhamidbakhta>](https://github.com/StarkNightsWatch).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/StarkNightsWatch/starknet-peer-review/contributors).
 
