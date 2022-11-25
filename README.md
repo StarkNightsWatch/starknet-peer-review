@@ -115,7 +115,7 @@ Together, we can make StarkNet Peer Review **better**!
 ## Starknet-peer-review Contributing
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
+![image](https://user-images.githubusercontent.com/25151724/204031886-b401781b-8199-4a1d-ae5c-8647f043572c.png)
 
 Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
