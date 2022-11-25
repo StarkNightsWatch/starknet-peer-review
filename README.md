@@ -6,10 +6,11 @@
 </h1>
 
 <div align="center">
-  StarkNet Peer Review
-  <br />
-  <a href="#about"><strong>Explore the screenshots »</strong></a>
-  <br />
+<b>StarkNet Peer Review</b>
+  <br /><br />
+  👉 Feel free to join our dedicated <a href="https://t.me/+Ui4357socJ5iYmY0">Telegram channel </a>.
+
+  
   <br />
   <a href="https://github.com/StarkNightsWatch/starknet-peer-review/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   -
@@ -56,63 +57,45 @@
 
 <table><tr><td>
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+Every contribution is welcome! Do you want to help us manage this repo and related Pull Request?
 
-<details>
-<summary>Screenshots</summary>
-<br>
+This community contribution is mean to reenforce security of Starknet ecosystem
 
-> **[?]**
-> Please provide your screenshots here.
-
-|                               Home Page                               |                               Login Page                               |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
-
-</details>
+- [ ]  Open ticket to get your code reviewed by peers
+- [ ]  Review code of your peers
 
 </td></tr></table>
 
-### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
 
-## Getting Started
-
-### Prerequisites
-
-> **[?]**
-> What are the project requirements/dependencies?
-
-### Installation
-
-> **[?]**
-> Describe how to install and get started with the project.
 
 ## Usage
 
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+### Start Contribution
 
-## Roadmap
+- Start with the Peer review [Backlog](https://github.com/orgs/StarkNightsWatch/projects/1)
 
-See the [open issues](https://github.com/StarkNightsWatch/starknet-peer-review/issues) for a list of proposed features (and known issues).
+### Contribute
 
-- [Top Feature Requests](https://github.com/StarkNightsWatch/starknet-peer-review/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/StarkNightsWatch/starknet-peer-review/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/StarkNightsWatch/starknet-peer-review/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+You've found a bug in the source code of a peer, a mistake in the documentation or maybe you'd like a new feature?Take a look at [GitHub Discussions](https://github.com/StarkNightsWatch/starknet-peer-review/discussions) or telegram to see if it's already being discussed. You can help  by commenting on the opened ticket and submitting an issue on the peer’s GitHub. Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+
+Please try to create bug reports that are:
+
+- *Reproducible.* Include steps to reproduce the problem.
+- *Specific.* Include as much detail as possible: which version, what environment, etc.
+- *Unique.* Do not duplicate existing opened issues.
+- *Scoped to a Single Bug.* One bug per report.
+
+**Even better: Submit a pull request with a fix or new feature!**
+
+1. Search on the reviewed repository for open or closed PR that relate to your submission. You don't want to duplicate effort.
+2. Fork the project
+3. Create your feature branch (`git checkout -b feat/peer_review`)
+4. Commit your changes (`git commit -m 'feat: add peer_rewiew'`)
+5. Push to the branch (`git push origin feat/peer_review`)
+6. Open PR
 
 ## Support
-
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
 
 Reach out to the maintainer at one of the following places:
 
@@ -129,7 +112,7 @@ If you want to say **thank you** or/and support active development of StarkNet P
 
 Together, we can make StarkNet Peer Review **better**!
 
-## Contributing
+## Starknet-peer-review Contributing
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
