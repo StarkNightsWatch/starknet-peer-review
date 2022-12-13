@@ -66,9 +66,9 @@ Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you f
 
 ### Request a review
 
-1. Create a "Review request" Issue in repo
+1. Create a new repository including all the files and the scope
 2. Describe the scope of the review
-3. Create a new repository including all the files and the scope
+3. Create a "Review request" Issue in starknet-peer-review
 
 ### Submit a report
 
