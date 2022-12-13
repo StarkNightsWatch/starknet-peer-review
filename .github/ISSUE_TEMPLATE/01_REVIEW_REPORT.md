@@ -1,16 +1,21 @@
 ---
-name: Bug Report
-about: Create a report to help StarkNet Peer Review to improve
-title: "bug: "
+name: Review Report
+about: Create a Review Report for this project
+title: "Report: "
 labels: "bug"
 assignees: ""
 ---
 
-# Bug Report
+# Review Status
 
-**StarkNet Peer Review version:**
+- [ ] Started
+- [ ] Done
 
-<!-- Please specify commit or tag version. -->
+# Report Summary
+
+<!-- Describe your findings and a list of bugs you found -->
+
+# Bug Report(s)
 
 **Current behavior:**
 
